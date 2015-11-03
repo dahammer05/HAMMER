@@ -1,2 +1,2 @@
 # HAMMER
-hi
+black is really blue
